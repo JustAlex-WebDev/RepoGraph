@@ -1,24 +1,12 @@
-<h2 style="margin-bottom: 0.4em; border-bottom: 1px solid lightgrey; padding-bottom: 0.8em">
-  RepoGraph
-</h2>
+## RepoGraph  
+**Visualise Your Code**  
+*Navigate Complex Codebases Instantly.*  
+RepoGraph is a powerful tool that enables teams and developers to visualize their codebases in an interactive and intuitive way. Designed for onboarding, collaboration, and quick insights, RepoGraph simplifies the process of navigating complex repositories.  
 
-<h3 style="margin-bottom: 0.4em;">
-  Visualise Your Code
-</h3>
+---
 
-<h6 style="margin: 0; font-weight: 300; font-style: italic;">
-  Navigate Complex Codebases Instantly.
-</h6>
-
-<p style="margin-top: 0.8em; font-weight: 500; margin-left:0; border-bottom: 1px solid lightgrey; padding-bottom: 1.4em">
-  RepoGraph is a powerful tool that enables teams and developers to visualize their codebases in an interactive and intuitive way. Designed for onboarding, collaboration, and quick insights, RepoGraph simplifies the process of navigating complex repositories.
-</p>
-
-<h3 style="margin-bottom: 0.4em;">Features Highlights</h3>
-<h6 style="margin: 0; font-weight: 300; font-size: smaller; font-style: italic">
-  Some of our biggest “wow” features.
-</h6>
-
+### Features Highlights  
+*Some of our biggest “wow” features.*  
 
 #### 📊 Live Dependency Graph  
 **Real‑Time Visuals**  
@@ -36,46 +24,34 @@ Filter by folder, search identifiers, tag complexity hotspots — and collaborat
 **Zero Setup**  
 Simply paste any public or private GitHub repository URL to get started.
 
-<p style="border-bottom: 1px solid lightgrey; padding-top: 0.8em; margin-left:0">
-</p>
+---
 
-<h3 style="margin-bottom: 0.4em;">How It Works</h3>
-<h6 style="margin: 0; font-weight: 300; font-size: smaller; font-style: italic">
-  Three simple steps to insight.
-</h6>
+### How It Works  
+*Three simple steps to insight.*  
 
-#### 1️⃣ Clone Your Repo  
-**Instant Setup**  
-Paste any public or private GitHub URL—no installs, no configuration. RepoGraph grabs your code instantly.
+1. **Clone Your Repo**  
+   **Instant Setup**  
+   Paste any public or private GitHub URL—no installs, no configuration. RepoGraph grabs your code instantly.
 
-#### 2️⃣ Generate Your Map  
-**Automated Parsing**  
-Our engine analyzes modules, functions, and dependencies in seconds—building an interactive, real-time graph.
+2. **Generate Your Map**  
+   **Automated Parsing**  
+   Our engine analyzes modules, functions, and dependencies in seconds—building an interactive, real‑time graph.
 
-#### 3️⃣ Explore & Collaborate  
-**Deep-Dive & Share**  
-Filter by folder, search across identifiers, tag complexity hotspots — and send shareable links to your team for real-time collaboration.
+3. **Explore & Collaborate**  
+   **Deep‑Dive & Share**  
+   Filter by folder, search across identifiers, tag complexity hotspots — and send shareable links to your team for real‑time collaboration.
 
-<p style="border-bottom: 1px solid lightgrey; padding-top: 0.8em; margin-left:0">
-</p>
+---
 
-<h3 style="margin-bottom: 0.4em;">Still Got Questions?</h3>
-<h6 style="margin: 0em; font-weight: 300; font-size: smaller; font-style: italic">
-  Don’t hesitate to reach out!
-</h6>
+### Still Got Questions?  
+*Don’t hesitate to reach out!*  
 
-<p style="margin-top: 0.8em; margin-bottom:0; margin-left:0; padding:0;">
-    ✉️ <strong>Email:</strong> <a href="mailto:support@repograph.com">support@repograph.com</a>
-  </p>
+✉️ **Email:** [support@repograph.com](mailto:support@repograph.com)  
+🐦 **Twitter:** [@RepoGraph](https://twitter.com/RepoGraph)  
 
-<p style="border-bottom: 1px solid lightgrey; padding: 0.8em; margin-left:0">
-</p>
+---
 
-<h3 style="margin-bottom: 0.4em;">Get Started Today</h3>
-<h6 style="margin: 0em; font-weight: 300; font-size: smaller; font-style: italic">
-  Start your journey now.
-</h6> 
+### Get Started Today  
+*Start your journey now.*  
 
-<p style="margin-top: 0.8em; margin-bottom:0; margin-left:0; padding:0;">
 [Get Early Access](https://repograph.com) | [Request a Demo](https://repograph.com/demo)
-</p>
