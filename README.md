@@ -1,4 +1,15 @@
-# RepoGraph  
+<h1>
+  <img
+    src="repograph-logo.svg"
+    alt="RepoGraph logo"
+    width="auto" height="60"
+    align="absmiddle"
+  />
+  RepoGraph
+</h1>
+
+
+
 ### Visualise Your Code 
 *Navigate Complex Codebases Instantly.*  
 
