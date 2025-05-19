@@ -1,6 +1,7 @@
-## RepoGraph  
-**Visualise Your Code**  
+# RepoGraph  
+### Visualise Your Code 
 *Navigate Complex Codebases Instantly.*  
+
 RepoGraph is a powerful tool that enables teams and developers to visualize their codebases in an interactive and intuitive way. Designed for onboarding, collaboration, and quick insights, RepoGraph simplifies the process of navigating complex repositories.  
 
 ---
